@@ -20,7 +20,7 @@ Here, you'll find a mix of content tailored for both newcomers and seasoned bloc
 
 ## Let's Connect!
 
-I believe in the power of community and shared knowledge. Join me on this exciting journey by engaging in discussions, asking questions, and sharing your thoughts. Feel free to reach out on [Twitter](https://twitter.com/tolahash) or drop me an email at [your@email.com].
+I believe in the power of community and shared knowledge. Join me on this exciting journey by engaging in discussions, asking questions, and sharing your thoughts. Feel free to reach out on [Twitter](https://twitter.com/tolahash).
 
 Ready to explore the depths of secure smart contracts together? Let's dive in!
 
